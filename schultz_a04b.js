@@ -9,8 +9,8 @@ const firstName = "Chris";  //3a, constant to hold my first name
 const weight = "220.0";   //3b, constant to hold my weight as a string, with a decimal
 const height = 72.0; //3c, constant to hold my height inches, as a float
 const age = "37"; //3d, constant to hold my age as a string, no decimal
-const marsGravity = 0.38 //3e, constant to hold Mars gravity (instructions don't specify but I assumed float)
-const inchesToMeters = 2.54 //3f constant to hold inches to meters (instructions don't specify but I assumed float)
+const marsGravity = 0.38; //3e, constant to hold Mars gravity (instructions don't specify but I assumed float)
+const inchesToMeters = 2.54; //3f constant to hold inches to meters (instructions don't specify but I assumed float)
 
 //block for block-scoped variables
 {
